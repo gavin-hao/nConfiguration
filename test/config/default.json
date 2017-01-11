@@ -1,0 +1,22 @@
+{
+    "web": {
+        "host": "localhost",
+        "port": "123"
+
+    },
+    "Customer": {
+        "dbConfig": {
+            "host": "prod-db-server-3"
+        },
+        "credit": {
+            "initialDays": 4,
+            "haha": {
+                "a":4,
+                "b": 2
+            }
+        },
+        "__version": 1
+    },
+
+    "__version": 2
+}

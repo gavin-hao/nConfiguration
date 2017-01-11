@@ -1,0 +1,16 @@
+{
+    "name": "roshan-config",
+    "author": {
+        "name": "Hao Zhigang"
+    },
+    "description": "Configuration control for production node deployments,auto reload config object when config file changed",
+    "version": "0.0.2",
+    "main": "./index.js",
+    "_id": "roshan-config@0.0.2",
+    "_from": "roshan-config@*",
+    "dependencies": {
+        "gaze": "0.6.4",
+        "lodash": "2.4.1",
+        "chokidar": "0.8.4"
+    }
+}
